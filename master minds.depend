@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1563013903 source:c:\users\ashu\desktop\quiz\src\project.cpp
+	<graphics.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1563014948 source:c:\users\ashutosh rane\desktop\quiz\src\project.cpp
+	<graphics.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1569609860 source:e:\program\ashu\quiz\src\project.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<mmsystem.h>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
+1573279921 source:e:\ashu docs\program\ashu\my programs\quiz\src\project.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<mmsystem.h>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
+1577448954 source:e:\program\ashu\my projects\quiz\src\project.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<mmsystem.h>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
